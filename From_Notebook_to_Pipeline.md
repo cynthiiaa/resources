@@ -1471,22 +1471,6 @@ def train_with_tracking(
 
 ---
 
-<div align="center" style="padding: 30px; background: linear-gradient(135deg, #f5f0ff 0%, #e8dbff 100%); border-radius: 12px; margin: 30px 0;">
-
-<h3 style="color: #9e6aed; margin-bottom: 15px;">💜 Made with love by cynscode.com</h3>
-
-<p style="color: #666; font-size: 1.1em;">
-If this guide saved you from production nightmares, give it a ⭐️ and share it!
-</p>
-
-<p style="color: #9e6aed; font-weight: bold; margin-top: 20px; font-size: 1.2em;">
-Your notebook → production pipeline transformation starts now! 🚀
-</p>
-
-</div>
-
----
-
 <div align="center">
 <sub>Last updated: October 2025 | Made for data professionals who want to ship real code</sub>
 </div>
